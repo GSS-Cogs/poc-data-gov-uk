@@ -1,0 +1,67 @@
+// Adapted from https://github.com/alphagov/frontend/blob/main/app/assets/stylesheets/views/_homepage.scss
+
+.homepage-section {
+  padding: govuk-spacing(4) 0 govuk-spacing(6);
+}
+
+.homepage-section--links-and-search {
+  background: govuk-colour("light-grey");
+  padding: govuk-spacing(6) 0 govuk-spacing(8);
+}
+
+.homepage-section--services-and-info {
+  padding: govuk-spacing(6) 0 0;
+}
+
+.homepage-section__heading {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: $govuk-text-colour;
+  margin: 0 0 govuk-spacing(6);
+  padding: govuk-spacing(3) 0 0;
+}
+
+.homepage-section__heading-wrapper {
+  margin-bottom: govuk-spacing(1);
+
+  @include govuk-media-query($from: desktop) {
+    margin-bottom: 0;
+  }
+}
+
+.homepage-section__heading--border-none {
+  border: none;
+  padding: 0;
+}
+
+.homepage-search {
+  @include govuk-media-query($until: "tablet") {
+    max-width: 420px;
+  }
+}
+
+.homepage-most-viewed-list {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 govuk-spacing(7) 0;
+
+  @include govuk-media-query($from: "tablet") {
+    padding-bottom: 0;
+  }
+
+  & > li {
+    margin-bottom: govuk-spacing(4);
+
+    @include govuk-media-query($from: "desktop") {
+      margin-bottom: govuk-spacing(3);
+    }
+  }
+
+  & > li:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.homepage-most-viewed-list__item {
+  @include govuk-font($size: 19, $weight: "bold");
+}

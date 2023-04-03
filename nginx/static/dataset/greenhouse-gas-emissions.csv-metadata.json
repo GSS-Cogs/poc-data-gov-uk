@@ -1,0 +1,124 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw", { "@language": "en" }],
+  "@id": "http://data.gov.uk/dataset/greenhouse-gas-emissions.csv",
+  "url": "greenhouse-gas-emissions.csv",
+  "dcterms:title": "Greenhouse gas emissions (CSV)",
+  "dcterms:description": "A CSV of the greenhouse gas emissions dataset.",
+  "dcat:mediaType": "text/csv",
+  "tableSchema": {
+    "columns": [
+      {
+        "name": "gas",
+        "titles": "gas",
+        "datatype": "string",
+        "rdfs:label": "Gas",
+        "rdfs:comment": "The gas being emitted.",
+        "propertyUrl": "http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area",
+        "valueUrl": "http://statistics.data.gov.uk/id/statistical-geography/{area}"
+      },
+      {
+        "name": "gas_label",
+        "titles": "gas_label",
+        "datatype": "string",
+        "rdfs:label": "Sex",
+        "rdfs:comment": "The label of the gas being emitted.",
+        "suppressOutput": true
+      },
+      {
+        "name": "year",
+        "titles": "year",
+        "datatype": "integer",
+        "rdfs:label": "Year",
+        "rdfs:comment": "The year of an observation.",
+        "propertyUrl": "http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year",
+        "valueUrl": "http://reference.data.gov.uk/id/year/{+year}"
+      },
+      {
+        "name": "emissions",
+        "titles": "emissions",
+        "datatype": "decimal",
+        "rdfs:label": "Total emissions",
+        "rdfs:comment": "Total emissions observed.",
+        "propertyUrl": "http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "rdf:type",
+        "valueUrl": "qb:Observation"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "qb:dataSet",
+        "valueUrl": "http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube"
+      }
+    ],
+    "aboutUrl": "http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/{+gas}-{+year}",
+    "primaryKey": ["gas", "year"]
+  },
+  "dcat:isDistributionOf": {
+    "@id": "http://data.gov.uk/dataset/greenhouse-gas-emissions",
+    "@type": "dcat:Dataset",
+    "dcterms:title": "Greenhouse gas emissions",
+    "dcterms:description": "Dataset of greenhouse gas emissions.",
+    "dcat:spatial": {
+      "@id": "http://statistics.data.gov.uk/id/statistical-geography/K02000001"
+    },
+    "dcat:temporal": {
+      "@id": "http://reference.data.gov.uk/id/gregorian-interval/1990-01-01T00:00:00/P32Y"
+    },
+    "dcterms:license": {
+      "@id": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+    },
+    "dcterms:publisher": {
+      "@id": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+    },
+    "dcat:distribution": [
+      {
+        "@id": "http://data.gov.uk/dataset/greenhouse-gas-emissions.csv",
+        "@type": "dcat:Distribution"
+      },
+      {
+        "@id": "http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube",
+        "@type": ["qb:DataSet", "dcat:Distribution"],
+        "dcterms:title": "Greenhouse gas emissions (RDF Data Cube)",
+        "dcterms:description": "An RDF data cube of the greenhouse gas emissions dataset.",
+        "qb:structure": {
+          "@id": "http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/structure",
+          "@type": "qb:DataStructureDefinition",
+          "qb:component": [
+            {
+              "@id": "http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/component/gas",
+              "@type": "qb:ComponentSpecification",
+              "qb:dimension": {
+                "@id": "http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/gas",
+                "@type": "qb:DimensionProperty",
+                "rdfs:label": "Gas",
+                "rdfs:comment": "The gas being emitted."
+              }
+            },
+            {
+              "@id": "http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/component/year",
+              "@type": "qb:ComponentSpecification",
+              "qb:dimension": {
+                "@id": "http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year",
+                "@type": "qb:DimensionProperty",
+                "rdfs:label": "Year",
+                "rdfs:comment": "The year of an observation."
+              }
+            },
+            {
+              "@id": "http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/component/emissions",
+              "@type": "qb:ComponentSpecification",
+              "qb:measure": {
+                "@id": "http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions",
+                "@type": "qb:MeasureProperty",
+                "rdfs:label": "Total emissions",
+                "rdfs:comment": "Total emissions observed."
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

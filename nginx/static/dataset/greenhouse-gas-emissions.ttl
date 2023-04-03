@@ -1,0 +1,1302 @@
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1990> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1990>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 605.41818;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1991> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1991>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 612.35672;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1992> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1992>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 595.91688;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1993> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1993>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 581.12918;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1994> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1994>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 575.1024;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1995> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1995>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 567.20379;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1996> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1996>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 586.70662;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1997> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1997>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 561.96601;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1998> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1998>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 566.8485;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1999> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1999>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 560.2603;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2000> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2000>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 567.4484;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2001> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2001>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 576.01989;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2002> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2002>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 557.57028;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2003> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2003>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 568.82201;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2004> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2004>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 569.76164;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2005> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2005>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 566.15692;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2006> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2006>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 563.22492;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2007> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2007>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 554.20039;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2008> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2008>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 539.07512;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2009> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2009>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 488.33508;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2010> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2010>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 506.10563;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2011> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2011>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 463.27794;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2012> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2012>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 481.21133;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2013> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2013>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 471.21715;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2014> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2014>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 432.21837;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2015> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2015>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 416.20518;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2016> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2016>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 393.39944;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2017> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2017>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 381.09885;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2018> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2018>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 374.02409;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2019> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2019>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 359.32468;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2020> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2020>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 321.08766;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1990> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1990>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 134.06653;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1991> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1991>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 134.82202;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1992> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1992>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 134.69351;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1993> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1993>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 133.25407;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1994> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1994>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 126.39121;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1995> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1995>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 128.03469;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1996> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1996>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 127.27284;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1997> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1997>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 124.8446;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1998> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1998>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 121.43355;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1999> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1999>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 115.90998;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2000> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2000>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 110.67064;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2001> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2001>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 105.9176;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2002> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2002>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 103.51739;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2003> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2003>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 98.63798;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2004> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2004>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 94.11983;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2005> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2005>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 89.70114;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2006> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2006>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 85.43067;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2007> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2007>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 81.61782;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2008> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2008>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 75.82576;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2009> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2009>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 71.48369;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2010> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2010>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 66.81144;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2011> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2011>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 64.16817;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2012> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2012>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 62.55805;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2013> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2013>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 58.39834;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2014> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2014>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 56.41544;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2015> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2015>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 55.4487;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2016> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2016>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 53.68872;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2017> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2017>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 54.08473;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2018> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2018>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 53.61661;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2019> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2019>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 53.35512;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2020> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2020>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 51.2622;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1990> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1990>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 49.52356;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1991> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1991>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 49.74343;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1992> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1992>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 44.79165;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1993> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1993>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 40.53211;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1994> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1994>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 41.15339;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1995> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1995>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 39.79948;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1996> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1996>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 39.85208;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1997> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1997>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 40.19782;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1998> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1998>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 40.18679;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1999> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1999>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 30.62897;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2000> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2000>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 29.97986;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2001> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2001>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 28.53945;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2002> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2002>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 26.81163;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2003> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2003>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 26.35258;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2004> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2004>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 26.90933;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2005> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2005>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 25.99576;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2006> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2006>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 24.82192;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2007> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2007>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 24.84474;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2008> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2008>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 24.00397;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2009> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2009>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 22.52017;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2010> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2010>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 22.9366;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2011> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2011>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 22.03004;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2012> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2012>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 21.75078;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2013> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2013>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 21.83623;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2014> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2014>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 22.34546;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2015> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2015>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 21.9964;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2016> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2016>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 21.68564;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2017> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2017>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 22.15007;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2018> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2018>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 22.0065;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2019> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2019>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 22.0086;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2020> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2020>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 20.91889;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1990> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1990>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 14.40067;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1991> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1991>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 15.01008;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1992> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1992>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 15.62789;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1993> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1993>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 16.40212;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1994> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1994>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 17.30434;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1995> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1995>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 18.56369;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1996> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1996>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 19.47523;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1997> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1997>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 21.6993;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1998> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1998>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 18.03586;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1999> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1999>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 9.74049;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2000> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2000>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 7.76413;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2001> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2001>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 8.42087;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2002> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2002>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 8.72667;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2003> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2003>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 9.49704;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2004> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2004>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 8.31095;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2005> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2005>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 9.07019;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2006> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2006>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 9.90498;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2007> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2007>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 10.31302;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2008> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2008>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 10.71191;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2009> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2009>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 11.2195;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2010> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2010>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 11.78728;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2011> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2011>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 12.40089;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2012> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2012>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 13.00296;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2013> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2013>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 13.42388;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2014> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2014>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 13.60056;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2015> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2015>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 13.58867;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2016> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2016>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 13.5772;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2017> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2017>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 13.47394;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2018> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2018>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 13.13593;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2019> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2019>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 12.50346;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2020> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2020>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 11.67773;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1990> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1990>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.64864;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1991> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1991>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.38102;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1992> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1992>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.68558;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1993> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1993>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.59719;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1994> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1994>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.60496;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1995> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1995>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.58945;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1996> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1996>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.58764;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1997> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1997>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.49296;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1998> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1998>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.47853;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1999> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1999>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.45429;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2000> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2000>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.57191;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2001> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2001>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.47193;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2002> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2002>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.39764;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2003> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2003>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.34844;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2004> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2004>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.43973;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2005> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2005>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.39195;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2006> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2006>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.39;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2007> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2007>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.28656;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2008> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2008>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.26214;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2009> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2009>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.19113;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2010> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2010>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.28002;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2011> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2011>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.4058;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2012> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2012>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.23357;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2013> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2013>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.28612;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2014> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2014>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.23358;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2015> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2015>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.26932;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2016> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2016>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.27952;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2017> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2017>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.4007;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2018> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2018>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.14456;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2019> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2019>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.21072;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2020> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2020>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.15979;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1990> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1990>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.2006;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1991> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1991>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.25884;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1992> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1992>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.32272;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1993> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1993>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.1561;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1994> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1994>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.20036;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1995> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1995>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.24533;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1996> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1996>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.29095;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1997> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1997>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.26539;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1998> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1998>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.31319;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1999> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1999>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.48138;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2000> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2000>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.80045;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2001> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2001>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.42629;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2002> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2002>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.46277;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2003> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2003>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.28578;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2004> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2004>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.07895;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2005> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2005>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 1.0178;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2006> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2006>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.84418;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2007> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2007>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.80238;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2008> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2008>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.64756;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2009> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2009>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.55453;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2010> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2010>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.65506;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2011> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2011>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.54595;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2012> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2012>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.52079;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2013> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2013>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.46014;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2014> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2014>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.42162;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2015> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2015>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.40254;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2016> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2016>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.43201;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2017> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2017>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.43736;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2018> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2018>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.53519;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2019> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2019>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.4745;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2020> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2020>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.40694;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1990> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1990>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00012;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1991> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1991>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00014;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1992> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1992>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00016;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1993> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1993>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.0002;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1994> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1994>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00023;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1995> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1995>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00027;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1996> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1996>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00032;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1997> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1997>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00038;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1998> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1998>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00044;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-1999> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/1999>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00051;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2000> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2000>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00058;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2001> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2001>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00036;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2002> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2002>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00036;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2003> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2003>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00033;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2004> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2004>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00031;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2005> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2005>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00035;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2006> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2006>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00038;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2007> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2007>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00039;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2008> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2008>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00039;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2009> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2009>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00038;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2010> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2010>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00036;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2011> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2011>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00036;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2012> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2012>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00036;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2013> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2013>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00036;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2014> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2014>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00036;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2015> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2015>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00036;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2016> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2016>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00036;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2017> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2017>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00036;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2018> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2018>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00036;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2019> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2019>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00036;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .
+
+<http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube/obs/CO2-2020> a <http://purl.org/linked-data/cube#Observation>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/area> <http://statistics.data.gov.uk/id/statistical-geography/>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/dimension/year> <http://reference.data.gov.uk/id/year/2020>;
+  <http://data.gov.uk/dataset/greenhouse-gas-emissions/measure/emissions> 0.00036;
+  <http://purl.org/linked-data/cube#dataSet> <http://data.gov.uk/dataset/greenhouse-gas-emissions/datacube> .

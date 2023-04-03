@@ -1,0 +1,218 @@
+"gas","gas_label","year","emissions"
+"CO2","Carbon dioxide (CO2)","1990",605.41818
+"CO2","Carbon dioxide (CO2)","1991",612.35672
+"CO2","Carbon dioxide (CO2)","1992",595.91688
+"CO2","Carbon dioxide (CO2)","1993",581.12918
+"CO2","Carbon dioxide (CO2)","1994",575.1024
+"CO2","Carbon dioxide (CO2)","1995",567.20379
+"CO2","Carbon dioxide (CO2)","1996",586.70662
+"CO2","Carbon dioxide (CO2)","1997",561.96601
+"CO2","Carbon dioxide (CO2)","1998",566.8485
+"CO2","Carbon dioxide (CO2)","1999",560.2603
+"CO2","Carbon dioxide (CO2)","2000",567.4484
+"CO2","Carbon dioxide (CO2)","2001",576.01989
+"CO2","Carbon dioxide (CO2)","2002",557.57028
+"CO2","Carbon dioxide (CO2)","2003",568.82201
+"CO2","Carbon dioxide (CO2)","2004",569.76164
+"CO2","Carbon dioxide (CO2)","2005",566.15692
+"CO2","Carbon dioxide (CO2)","2006",563.22492
+"CO2","Carbon dioxide (CO2)","2007",554.20039
+"CO2","Carbon dioxide (CO2)","2008",539.07512
+"CO2","Carbon dioxide (CO2)","2009",488.33508
+"CO2","Carbon dioxide (CO2)","2010",506.10563
+"CO2","Carbon dioxide (CO2)","2011",463.27794
+"CO2","Carbon dioxide (CO2)","2012",481.21133
+"CO2","Carbon dioxide (CO2)","2013",471.21715
+"CO2","Carbon dioxide (CO2)","2014",432.21837
+"CO2","Carbon dioxide (CO2)","2015",416.20518
+"CO2","Carbon dioxide (CO2)","2016",393.39944
+"CO2","Carbon dioxide (CO2)","2017",381.09885
+"CO2","Carbon dioxide (CO2)","2018",374.02409
+"CO2","Carbon dioxide (CO2)","2019",359.32468
+"CO2","Carbon dioxide (CO2)","2020",321.08766
+"CO2","Methane (CH4)","1990",134.06653
+"CO2","Methane (CH4)","1991",134.82202
+"CO2","Methane (CH4)","1992",134.69351
+"CO2","Methane (CH4)","1993",133.25407
+"CO2","Methane (CH4)","1994",126.39121
+"CO2","Methane (CH4)","1995",128.03469
+"CO2","Methane (CH4)","1996",127.27284
+"CO2","Methane (CH4)","1997",124.8446
+"CO2","Methane (CH4)","1998",121.43355
+"CO2","Methane (CH4)","1999",115.90998
+"CO2","Methane (CH4)","2000",110.67064
+"CO2","Methane (CH4)","2001",105.9176
+"CO2","Methane (CH4)","2002",103.51739
+"CO2","Methane (CH4)","2003",98.63798
+"CO2","Methane (CH4)","2004",94.11983
+"CO2","Methane (CH4)","2005",89.70114
+"CO2","Methane (CH4)","2006",85.43067
+"CO2","Methane (CH4)","2007",81.61782
+"CO2","Methane (CH4)","2008",75.82576
+"CO2","Methane (CH4)","2009",71.48369
+"CO2","Methane (CH4)","2010",66.81144
+"CO2","Methane (CH4)","2011",64.16817
+"CO2","Methane (CH4)","2012",62.55805
+"CO2","Methane (CH4)","2013",58.39834
+"CO2","Methane (CH4)","2014",56.41544
+"CO2","Methane (CH4)","2015",55.4487
+"CO2","Methane (CH4)","2016",53.68872
+"CO2","Methane (CH4)","2017",54.08473
+"CO2","Methane (CH4)","2018",53.61661
+"CO2","Methane (CH4)","2019",53.35512
+"CO2","Methane (CH4)","2020",51.2622
+"CO2","Nitrous oxide (N2O)","1990",49.52356
+"CO2","Nitrous oxide (N2O)","1991",49.74343
+"CO2","Nitrous oxide (N2O)","1992",44.79165
+"CO2","Nitrous oxide (N2O)","1993",40.53211
+"CO2","Nitrous oxide (N2O)","1994",41.15339
+"CO2","Nitrous oxide (N2O)","1995",39.79948
+"CO2","Nitrous oxide (N2O)","1996",39.85208
+"CO2","Nitrous oxide (N2O)","1997",40.19782
+"CO2","Nitrous oxide (N2O)","1998",40.18679
+"CO2","Nitrous oxide (N2O)","1999",30.62897
+"CO2","Nitrous oxide (N2O)","2000",29.97986
+"CO2","Nitrous oxide (N2O)","2001",28.53945
+"CO2","Nitrous oxide (N2O)","2002",26.81163
+"CO2","Nitrous oxide (N2O)","2003",26.35258
+"CO2","Nitrous oxide (N2O)","2004",26.90933
+"CO2","Nitrous oxide (N2O)","2005",25.99576
+"CO2","Nitrous oxide (N2O)","2006",24.82192
+"CO2","Nitrous oxide (N2O)","2007",24.84474
+"CO2","Nitrous oxide (N2O)","2008",24.00397
+"CO2","Nitrous oxide (N2O)","2009",22.52017
+"CO2","Nitrous oxide (N2O)","2010",22.9366
+"CO2","Nitrous oxide (N2O)","2011",22.03004
+"CO2","Nitrous oxide (N2O)","2012",21.75078
+"CO2","Nitrous oxide (N2O)","2013",21.83623
+"CO2","Nitrous oxide (N2O)","2014",22.34546
+"CO2","Nitrous oxide (N2O)","2015",21.9964
+"CO2","Nitrous oxide (N2O)","2016",21.68564
+"CO2","Nitrous oxide (N2O)","2017",22.15007
+"CO2","Nitrous oxide (N2O)","2018",22.0065
+"CO2","Nitrous oxide (N2O)","2019",22.0086
+"CO2","Nitrous oxide (N2O)","2020",20.91889
+"CO2","Hydrofluorocarbons (HFC)","1990",14.40067
+"CO2","Hydrofluorocarbons (HFC)","1991",15.01008
+"CO2","Hydrofluorocarbons (HFC)","1992",15.62789
+"CO2","Hydrofluorocarbons (HFC)","1993",16.40212
+"CO2","Hydrofluorocarbons (HFC)","1994",17.30434
+"CO2","Hydrofluorocarbons (HFC)","1995",18.56369
+"CO2","Hydrofluorocarbons (HFC)","1996",19.47523
+"CO2","Hydrofluorocarbons (HFC)","1997",21.6993
+"CO2","Hydrofluorocarbons (HFC)","1998",18.03586
+"CO2","Hydrofluorocarbons (HFC)","1999",9.74049
+"CO2","Hydrofluorocarbons (HFC)","2000",7.76413
+"CO2","Hydrofluorocarbons (HFC)","2001",8.42087
+"CO2","Hydrofluorocarbons (HFC)","2002",8.72667
+"CO2","Hydrofluorocarbons (HFC)","2003",9.49704
+"CO2","Hydrofluorocarbons (HFC)","2004",8.31095
+"CO2","Hydrofluorocarbons (HFC)","2005",9.07019
+"CO2","Hydrofluorocarbons (HFC)","2006",9.90498
+"CO2","Hydrofluorocarbons (HFC)","2007",10.31302
+"CO2","Hydrofluorocarbons (HFC)","2008",10.71191
+"CO2","Hydrofluorocarbons (HFC)","2009",11.2195
+"CO2","Hydrofluorocarbons (HFC)","2010",11.78728
+"CO2","Hydrofluorocarbons (HFC)","2011",12.40089
+"CO2","Hydrofluorocarbons (HFC)","2012",13.00296
+"CO2","Hydrofluorocarbons (HFC)","2013",13.42388
+"CO2","Hydrofluorocarbons (HFC)","2014",13.60056
+"CO2","Hydrofluorocarbons (HFC)","2015",13.58867
+"CO2","Hydrofluorocarbons (HFC)","2016",13.5772
+"CO2","Hydrofluorocarbons (HFC)","2017",13.47394
+"CO2","Hydrofluorocarbons (HFC)","2018",13.13593
+"CO2","Hydrofluorocarbons (HFC)","2019",12.50346
+"CO2","Hydrofluorocarbons (HFC)","2020",11.67773
+"CO2","Perfluorocarbons (PFC)","1990",1.64864
+"CO2","Perfluorocarbons (PFC)","1991",1.38102
+"CO2","Perfluorocarbons (PFC)","1992",0.68558
+"CO2","Perfluorocarbons (PFC)","1993",0.59719
+"CO2","Perfluorocarbons (PFC)","1994",0.60496
+"CO2","Perfluorocarbons (PFC)","1995",0.58945
+"CO2","Perfluorocarbons (PFC)","1996",0.58764
+"CO2","Perfluorocarbons (PFC)","1997",0.49296
+"CO2","Perfluorocarbons (PFC)","1998",0.47853
+"CO2","Perfluorocarbons (PFC)","1999",0.45429
+"CO2","Perfluorocarbons (PFC)","2000",0.57191
+"CO2","Perfluorocarbons (PFC)","2001",0.47193
+"CO2","Perfluorocarbons (PFC)","2002",0.39764
+"CO2","Perfluorocarbons (PFC)","2003",0.34844
+"CO2","Perfluorocarbons (PFC)","2004",0.43973
+"CO2","Perfluorocarbons (PFC)","2005",0.39195
+"CO2","Perfluorocarbons (PFC)","2006",0.39
+"CO2","Perfluorocarbons (PFC)","2007",0.28656
+"CO2","Perfluorocarbons (PFC)","2008",0.26214
+"CO2","Perfluorocarbons (PFC)","2009",0.19113
+"CO2","Perfluorocarbons (PFC)","2010",0.28002
+"CO2","Perfluorocarbons (PFC)","2011",0.4058
+"CO2","Perfluorocarbons (PFC)","2012",0.23357
+"CO2","Perfluorocarbons (PFC)","2013",0.28612
+"CO2","Perfluorocarbons (PFC)","2014",0.23358
+"CO2","Perfluorocarbons (PFC)","2015",0.26932
+"CO2","Perfluorocarbons (PFC)","2016",0.27952
+"CO2","Perfluorocarbons (PFC)","2017",0.4007
+"CO2","Perfluorocarbons (PFC)","2018",0.14456
+"CO2","Perfluorocarbons (PFC)","2019",0.21072
+"CO2","Perfluorocarbons (PFC)","2020",0.15979
+"CO2","Sulphur hexafluoride (SF6)","1990",1.2006
+"CO2","Sulphur hexafluoride (SF6)","1991",1.25884
+"CO2","Sulphur hexafluoride (SF6)","1992",1.32272
+"CO2","Sulphur hexafluoride (SF6)","1993",1.1561
+"CO2","Sulphur hexafluoride (SF6)","1994",1.20036
+"CO2","Sulphur hexafluoride (SF6)","1995",1.24533
+"CO2","Sulphur hexafluoride (SF6)","1996",1.29095
+"CO2","Sulphur hexafluoride (SF6)","1997",1.26539
+"CO2","Sulphur hexafluoride (SF6)","1998",1.31319
+"CO2","Sulphur hexafluoride (SF6)","1999",1.48138
+"CO2","Sulphur hexafluoride (SF6)","2000",1.80045
+"CO2","Sulphur hexafluoride (SF6)","2001",1.42629
+"CO2","Sulphur hexafluoride (SF6)","2002",1.46277
+"CO2","Sulphur hexafluoride (SF6)","2003",1.28578
+"CO2","Sulphur hexafluoride (SF6)","2004",1.07895
+"CO2","Sulphur hexafluoride (SF6)","2005",1.0178
+"CO2","Sulphur hexafluoride (SF6)","2006",0.84418
+"CO2","Sulphur hexafluoride (SF6)","2007",0.80238
+"CO2","Sulphur hexafluoride (SF6)","2008",0.64756
+"CO2","Sulphur hexafluoride (SF6)","2009",0.55453
+"CO2","Sulphur hexafluoride (SF6)","2010",0.65506
+"CO2","Sulphur hexafluoride (SF6)","2011",0.54595
+"CO2","Sulphur hexafluoride (SF6)","2012",0.52079
+"CO2","Sulphur hexafluoride (SF6)","2013",0.46014
+"CO2","Sulphur hexafluoride (SF6)","2014",0.42162
+"CO2","Sulphur hexafluoride (SF6)","2015",0.40254
+"CO2","Sulphur hexafluoride (SF6)","2016",0.43201
+"CO2","Sulphur hexafluoride (SF6)","2017",0.43736
+"CO2","Sulphur hexafluoride (SF6)","2018",0.53519
+"CO2","Sulphur hexafluoride (SF6)","2019",0.4745
+"CO2","Sulphur hexafluoride (SF6)","2020",0.40694
+"CO2","Nitrogen trifluoride (NF3)","1990",0.00012
+"CO2","Nitrogen trifluoride (NF3)","1991",0.00014
+"CO2","Nitrogen trifluoride (NF3)","1992",0.00016
+"CO2","Nitrogen trifluoride (NF3)","1993",0.0002
+"CO2","Nitrogen trifluoride (NF3)","1994",0.00023
+"CO2","Nitrogen trifluoride (NF3)","1995",0.00027
+"CO2","Nitrogen trifluoride (NF3)","1996",0.00032
+"CO2","Nitrogen trifluoride (NF3)","1997",0.00038
+"CO2","Nitrogen trifluoride (NF3)","1998",0.00044
+"CO2","Nitrogen trifluoride (NF3)","1999",0.00051
+"CO2","Nitrogen trifluoride (NF3)","2000",0.00058
+"CO2","Nitrogen trifluoride (NF3)","2001",0.00036
+"CO2","Nitrogen trifluoride (NF3)","2002",0.00036
+"CO2","Nitrogen trifluoride (NF3)","2003",0.00033
+"CO2","Nitrogen trifluoride (NF3)","2004",0.00031
+"CO2","Nitrogen trifluoride (NF3)","2005",0.00035
+"CO2","Nitrogen trifluoride (NF3)","2006",0.00038
+"CO2","Nitrogen trifluoride (NF3)","2007",0.00039
+"CO2","Nitrogen trifluoride (NF3)","2008",0.00039
+"CO2","Nitrogen trifluoride (NF3)","2009",0.00038
+"CO2","Nitrogen trifluoride (NF3)","2010",0.00036
+"CO2","Nitrogen trifluoride (NF3)","2011",0.00036
+"CO2","Nitrogen trifluoride (NF3)","2012",0.00036
+"CO2","Nitrogen trifluoride (NF3)","2013",0.00036
+"CO2","Nitrogen trifluoride (NF3)","2014",0.00036
+"CO2","Nitrogen trifluoride (NF3)","2015",0.00036
+"CO2","Nitrogen trifluoride (NF3)","2016",0.00036
+"CO2","Nitrogen trifluoride (NF3)","2017",0.00036
+"CO2","Nitrogen trifluoride (NF3)","2018",0.00036
+"CO2","Nitrogen trifluoride (NF3)","2019",0.00036
+"CO2","Nitrogen trifluoride (NF3)","2020",0.00036
